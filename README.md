@@ -67,7 +67,7 @@ A Equipe 3 atua no **Domínio Jurídico**, trabalhando com os seguintes datasets
 
 ## 👥 Colaboradores
 
-Este repositório contém as contribuições realizadas pelo aluno **Fernanda Mirely** no contexto da **Atividade Avaliativa 1** da disciplina **Tópicos Avançados em Engenharia de Software e Sistemas de Informação I**, ministrada na Universidade Federal de Sergipe (UFS), semestre 2026.1.
+Este repositório contém as contribuições realizadas pela aluna **Fernanda Mirely** no contexto da **Atividade Avaliativa 1** da disciplina **Tópicos Avançados em Engenharia de Software e Sistemas de Informação I**, ministrada na Universidade Federal de Sergipe (UFS), semestre 2026.1.
 
 <div align="center">
 <table align="center">
