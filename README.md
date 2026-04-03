@@ -67,16 +67,16 @@ A Equipe 3 atua no **Domínio Jurídico**, trabalhando com os seguintes datasets
 
 ## 👥 Colaboradores
 
-Este repositório contém as contribuições realizadas pelo aluno **Reinan Gabriel** no contexto da **Atividade Avaliativa 1** da disciplina **Tópicos Avançados em Engenharia de Software e Sistemas de Informação I**, ministrada na Universidade Federal de Sergipe (UFS), semestre 2026.1.
+Este repositório contém as contribuições realizadas pelo aluno **Fernanda Mirely** no contexto da **Atividade Avaliativa 1** da disciplina **Tópicos Avançados em Engenharia de Software e Sistemas de Informação I**, ministrada na Universidade Federal de Sergipe (UFS), semestre 2026.1.
 
 <div align="center">
 <table align="center">
   <tr>
     <td align="center">
-      <a href="https://github.com/ReinanHS">
-        <img src="https://github.com/reinanhs.png" height="64" width="64" alt="Reinan Gabriel"/>
+      <a href="https://github.com/safira1344">
+        <img src="https://github.com/safira1344.png" height="64" width="64" alt="Fernanda Mirely"/>
       </a><br/>
-      <a href="https://github.com/ReinanHS">Reinan Gabriel</a>
+      <a href="https://github.com/safira1344">Fernanda Mirely</a>
     </td>
   </tr>
 </table>
@@ -100,12 +100,12 @@ Os experimentos de inferência foram executados em uma máquina local com a segu
 
 | Componente                | Especificação           |
 |---------------------------|-------------------------|
-| **GPU**                   | NVIDIA GeForce GTX 1050 |
-| **VRAM dedicada**         | 4,0 GB                  |
-| **Memória compartilhada** | 8,0 GB                  |
-| **Versão do driver**      | 32.0.15.8228            |
-| **Data do driver**        | 20/01/2026              |
-| **Versão do DirectX**     | 12 (FL 12.1)            |
+| **GPU**                   |                         |
+| **VRAM dedicada**         |                         |
+| **Memória compartilhada** |                         |
+| **Versão do driver**      |                         |
+| **Data do driver**        |                         |
+| **Versão do DirectX**     |                         |
 
 Dado o limite de **4 GB de VRAM dedicada**, a seleção dos modelos foi direcionada para LLMs compactos (até ~3B de parâmetros) com versões quantizadas que cabem confortavelmente na memória disponível da GPU.
 
