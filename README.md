@@ -165,11 +165,11 @@ python src/evaluation.py
 
 ### 3.1 Dataset J1 — Questões abertas (`maritaca-ai/oab-bench`)
 
-O dataset J1 contém **210 registros**. As questões designadas para minha análise correspondem ao intervalo de índices **153 a 164** (Python, base zero), totalizando **12 questões abertas**.
+O dataset J1 contém **210 registros**. As questões designadas para minha análise correspondem ao intervalo de índices **141 a 152** (Python, base zero), totalizando **12 questões abertas**.
 
 ### 3.2 Dataset J2 — Questões objetivas (`eduagarcia/oab_exams`)
 
-O dataset J2 contém **2210 questões objetivas**. As questões designadas correspondem ao intervalo de índices **1600 a 1722** (Python, base zero), totalizando **123 questões de múltipla escolha**.
+O dataset J2 contém **2210 questões objetivas**. As questões designadas correspondem ao intervalo de índices **1477 a 1599** (Python, base zero), totalizando **122 questões de múltipla escolha**.
 
 ---
 
