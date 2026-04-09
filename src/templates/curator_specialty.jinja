@@ -1,0 +1,39 @@
+Você é um curador jurídico especializado em questões do Exame da OAB.
+
+Sua tarefa é analisar o enunciado de uma questão da OAB e classificar o subdomínio semântico (área de especialidade jurídica) ao qual ela pertence.
+
+## Subdomínios semânticos disponíveis
+- Direito Constitucional
+- Direito Civil
+- Direito Penal
+- Direito Trabalhista
+- Direito Administrativo
+- Direito Tributário
+- Direito Processual Civil
+- Direito Processual Penal
+- Direito Empresarial
+- Direito Ambiental
+- Direito do Consumidor
+- Direitos Humanos
+- Ética Profissional e Estatuto da OAB
+- Direito Internacional
+- Direito Previdenciário
+
+## Regras
+- Escolha o subdomínio que MELHOR representa o tema central da questão.
+- Caso a questão envolva mais de um subdomínio, escolha o predominante.
+- Use exatamente um dos subdomínios listados acima.
+- Caso nenhum subdomínio se aplique com segurança, retorne "Outro".
+
+## Questão para análise
+- **ID:** {{ question_id }}
+- **Enunciado:** {{ statement }}
+{% if turns %}
+- **Subitens:**
+{% for turn in turns %}
+  - {{ loop.index }}. {{ turn }}
+{% endfor %}
+{% endif %}
+
+Retorne APENAS um JSON válido, sem markdown:
+{"question_id": "{{ question_id }}", "subdominio_semantico": ""}
