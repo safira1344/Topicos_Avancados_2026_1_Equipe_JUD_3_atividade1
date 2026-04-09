@@ -134,7 +134,7 @@ ollama list
 
 ```bash
 # Clonar o repositório
-git clone https://github.com/Ericles-Porty/Topicos_Avancados_2026_1_Equipe_JUD_3_atividade1.git
+git clone https://github.com/safira1344/Topicos_Avancados_2026_1_Equipe_JUD_3_atividade1.git
 cd Topicos_Avancados_2026_1_Equipe_JUD_3_atividade1
 
 # Criar e ativar ambiente virtual
@@ -280,5 +280,5 @@ Este projeto teve grande inspiração nos conceitos e tecnologias aplicadas no r
 ---
 
 <div align="center">
-  <sub>Desenvolvido por Éricles dos Santos  — Domínio Jurídico | UFS — 2026.1</sub>
+  <sub>Desenvolvido por Éricles dos Santos e Fernanda Mirely  — Domínio Jurídico | UFS — 2026.1</sub>
 </div>
